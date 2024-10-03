@@ -1,0 +1,2 @@
+coloquei a pastas dos seus projetos aqui, 
+é se vocês colocarem uma pasta img com uma imagem png dentro da pasta de cada projeto ela será exibida na lista.
